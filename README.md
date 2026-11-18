@@ -9,10 +9,10 @@ Data Scientist and mathematician (University of Cádiz, MSc in Big Data & Data S
 
 | Project | What it covers |
 |---|---|
-| [TFM-proyect](https://github.com/josuehormigabenitez22-cmd/TFM-proyect) | Customer churn prediction with PySpark, Cassandra and Random Forest (scikit-learn and MLlib) |
-| [FreshMart](https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Proyect) | Layered data lake (raw, silver, gold) with Airflow, Parquet and DuckDB |
-| [data-clean](https://github.com/josuehormigabenitez22-cmd/data-clean) | Python data-cleaning library, published on PyPI and tested with CI |
+| [TFM-project](https://github.com/josuehormigabenitez22-cmd/TFM-project) | Customer churn prediction with PySpark, Cassandra and Random Forest (scikit-learn and MLlib) |
 | [TFG](https://github.com/josuehormigabenitez22-cmd/TFG) | High-frequency financial data in R: ARIMA, ordered probit, ACD models, realized volatility |
+| [FreshMart](https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Project) | Layered data lake (raw, silver, gold) with Airflow, Parquet and DuckDB |
+| [data-clean](https://github.com/josuehormigabenitez22-cmd/data-clean) | Python data-cleaning library, published on PyPI and tested with CI |
 | [bank-marketing-etl-docker](https://github.com/josuehormigabenitez22-cmd/bank-marketing-etl-docker) | Reproducible ETL with PostgreSQL, Redis and Docker Compose, 89 tests |
 
 **Stack:** Python · PyTorch · SQL · R · C · Spark · Airflow · Docker · PostgreSQL
