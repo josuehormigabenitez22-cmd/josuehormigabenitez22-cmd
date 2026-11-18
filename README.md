@@ -9,6 +9,7 @@ Data Scientist and mathematician (University of Cádiz, MSc in Big Data & Data S
 
 | Project | What it covers |
 |---|---|
+| [shelfvision](https://github.com/josuehormigabenitez22-cmd/shelfvision) | Find objects by name (OWLv2, zero-shot), read their Code128 labels with a decoder written from scratch, and estimate each label's 3D normal (MoGe-2) |
 | [TFM-project](https://github.com/josuehormigabenitez22-cmd/TFM-project) | Customer churn prediction with PySpark, Cassandra and Random Forest (scikit-learn and MLlib) |
 | [TFG](https://github.com/josuehormigabenitez22-cmd/TFG) | High-frequency financial data in R: ARIMA, ordered probit, ACD models, realized volatility |
 | [FreshMart](https://github.com/josuehormigabenitez22-cmd/FreshMart-OSupermarket-Project) | Layered data lake (raw, silver, gold) with Airflow, Parquet and DuckDB |
